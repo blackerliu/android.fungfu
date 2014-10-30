@@ -1,4 +1,4 @@
-android.platform.kungfu
+android.kungfu
 =======================
 
 Study Android
